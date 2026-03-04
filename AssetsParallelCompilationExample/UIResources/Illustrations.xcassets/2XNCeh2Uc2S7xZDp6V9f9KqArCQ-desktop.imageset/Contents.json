@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "2XNCeh2Uc2S7xZDp6V9f9KqArCQ-desktop.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "gpu-optimized-best"
+  }
+}
